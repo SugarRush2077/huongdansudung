@@ -88,8 +88,6 @@
         </p>
     </section>
 
-    
-
     <section id="database">
         <h2>4. Quản trị hệ thống</h2>
 
