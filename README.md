@@ -62,8 +62,7 @@
         <strong>Mục lục:</strong>
         <a href="#main">1. Màn hình chính</a>
         <a href="#login">2. Đăng nhập</a>
-        <a href="#register">3. Đăng ký</a>
-        <a href="#database">4. Quản trị hệ thống</a>
+        <a href="#database">3. Quản trị hệ thống</a>
     </nav>
 
     <section id="main">
