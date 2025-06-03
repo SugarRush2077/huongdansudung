@@ -73,7 +73,7 @@
             <p class="caption">Hình 1: Giao diện chính khi mở ứng dụng.</p>
         </div>
         <p>
-            Tại đây, người dùng có thể chọn "Đăng nhập" nếu đã có tài khoản, hoặc "Đăng ký" nếu là người dùng mới.
+            Tại đây, người dùng có thể chọn "Đăng nhập" nếu đã có tài khoản admin.
         </p>
     </section>
 
