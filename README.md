@@ -88,23 +88,14 @@
         </p>
     </section>
 
-    <section id="register">
-        <h2>3. Đăng ký tài khoản</h2>
-        <div class="image-container">
-            <img src="Images/3dangky.png" alt="Màn hình đăng ký">
-            <p class="caption">Hình 3: Giao diện đăng ký tài khoản mới.</p>
-        </div>
-        <p>
-            Người dùng mới cần điền đầy đủ các thông tin gồm: Họ tên, số điện thoại, mật khẩu (và xác nhận mật khẩu), email và địa chỉ. Nhấn nút <em>"Đăng ký"</em> để hoàn tất.
-        </p>
-    </section>
+    
 
     <section id="database">
         <h2>4. Quản trị hệ thống</h2>
 
         <div class="image-container">
             <img src="Images/4bangdieukhien.png" alt="Bảng điều khiển hệ thống">
-            <p class="caption">Hình 4: Giao diện bảng điều khiển quản trị.</p>
+            <p class="caption">Hình 3: Giao diện bảng điều khiển quản trị.</p>
         </div>
         <p>
             Tại bảng điều khiển, quản trị viên có thể truy cập các chức năng chính như: quản lý người dùng, điểm du lịch, vé, tour và các chuyến đi.
@@ -112,7 +103,7 @@
 
         <div class="image-container">
             <img src="Images/5nguoidung.png" alt="Quản lý người dùng">
-            <p class="caption">Hình 5: Giao diện quản lý người dùng.</p>
+            <p class="caption">Hình 4: Giao diện quản lý người dùng.</p>
         </div>
         <p>
             Cho phép xem danh sách tài khoản, chỉnh sửa thông tin hoặc xóa người dùng khỏi hệ thống. Có thể lọc theo tên, vai trò hoặc email.
@@ -120,11 +111,11 @@
 
         <div class="image-container">
             <img src="Images/8diemdulich.png" alt="Quản lý điểm du lịch">
-            <p class="caption">Hình 6: Giao diện quản lý điểm du lịch.</p>
+            <p class="caption">Hình 5: Giao diện quản lý điểm du lịch.</p>
         </div>
         <div class="image-container">
             <img src="Images/themdiemdulich.png" alt="Thêm điểm du lịch Bà Rịa Vũng Tàu">
-            <p class="caption">Hình 6b: Giao diện thêm điểm du lịch mới (ví dụ: Bà Rịa Vũng Tàu).</p>
+            <p class="caption">Hình 5b: Giao diện thêm điểm du lịch mới (ví dụ: Bà Rịa Vũng Tàu).</p>
         </div>
         
         <p>
@@ -133,7 +124,7 @@
 
         <div class="image-container">
             <img src="Images/11datve.png" alt="Quản lý đặt vé">
-            <p class="caption">Hình 7: Giao diện quản lý đặt vé của người dùng.</p>
+            <p class="caption">Hình 6: Giao diện quản lý đặt vé của người dùng.</p>
         </div>
         <p>
             Theo dõi các lượt đặt tour từ người dùng. Quản trị viên có thể xem chi tiết, xác nhận thanh toán hoặc hủy đơn đặt nếu cần.
@@ -141,7 +132,7 @@
 
         <div class="image-container">
             <img src="Images/14tour.png" alt="Quản lý tour du lịch">
-            <p class="caption">Hình 8: Giao diện quản lý tour du lịch.</p>
+            <p class="caption">Hình 7: Giao diện quản lý tour du lịch.</p>
         </div>
         <p>
             Dùng để tạo và quản lý các gói tour gồm tiêu đề, mô tả, điểm đến, giá vé, số lượng người tham gia và thời gian.
@@ -149,7 +140,7 @@
 
         <div class="image-container">
             <img src="Images/17chuyendi.png" alt="Quản lý chuyến đi thực tế">
-            <p class="caption">Hình 9: Giao diện quản lý chuyến đi thực tế.</p>
+            <p class="caption">Hình 8: Giao diện quản lý chuyến đi thực tế.</p>
         </div>
         <p>
             Mỗi chuyến đi là một phiên bản cụ thể của tour. Tại đây, quản trị viên theo dõi lịch trình, thời gian, người tham gia và tình trạng.
